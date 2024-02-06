@@ -1,0 +1,3 @@
+displayName = Spark
+author = silentstorm
+version = 0.1

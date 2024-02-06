@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5LIw12Z68o+BXwhGzt1djyKuICxX/8sXjnrf1MVfo9+M0JvrlT07VmVqbA1bdsFGgqEA3imS8/eAAZ9NkXZOEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kazim\\OneDrive\\Dokumenty\\My Games\\Terraria\\tModLoader\\ModSources\\Spark\\Spark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kazim\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
